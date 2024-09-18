@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\dependencyinjectionscopes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\dependencyinjectionscopes.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{803DE1AB-2006-4F0F-81A5-42838DE6F164}|DependencyInjection.Service\\DependencyInjection.Service.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjection.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803DE1AB-2006-4F0F-81A5-42838DE6F164}|DependencyInjection.Service\\DependencyInjection.Service.csproj|solutionrelative:dependencyinjection.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\example.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|c:\\dev\\dotnet\\servicescopes\\dependencyinjectionscopes\\dependencyinjectionscopes.api\\dependencyinjectionscopes.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8C0676CA-2BC9-48CB-AE68-FFD6CDCBF5F1}|DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj|solutionrelative:dependencyinjectionscopes.api\\dependencyinjectionscopes.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjectionScopes.API",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T08:49:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjection.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.Service\\Class1.cs",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjection.Service\\Class1.cs",
+              "RelativeToolTip": "DependencyInjection.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:48:36.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Example.http",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Example.http",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\Example.http",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Example.http",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\Example.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-18T08:40:02.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\Controllers\\ExampleController.cs",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\Controllers\\ExampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:38:39.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\appsettings.json",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\appsettings.json",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T08:38:24.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T08:38:07.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjectionScopes.API",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\DependencyInjectionScopes.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T08:37:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionScopes.API\\Program.cs",
+              "ToolTip": "C:\\DEV\\DOTNET\\ServiceScopes\\DependencyInjectionScopes\\DependencyInjectionScopes.API\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionScopes.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:37:33.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
